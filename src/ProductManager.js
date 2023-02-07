@@ -1,4 +1,4 @@
-// DESAFIO Nº2 - IGNACIO LOZANO - RE-ENTREGA
+// DESAFIO Nº3 - IGNACIO LOZANO
 
 import { promises as fs, existsSync, writeFileSync } from "fs";
 
